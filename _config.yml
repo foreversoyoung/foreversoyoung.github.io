@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: "My Site"
+
+url: "https://foreversoyoung.github.io"
+baseurl: ""
